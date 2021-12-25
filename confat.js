@@ -3,7 +3,7 @@ const chalk = require('chalk')
 const setting = JSON.parse(fs.readFileSync('./setting.json'));
 
 // Other
-global.owner = ["62859193578139","62859193578139"]
+global.owner = ["6289608583160","6289608583160"]
 global.packname = 'ｖｙｎｕｔｚｘｘ２２'
 global.youtube = 'https://youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw'
 global.author = '© Sakamata Chloe-MD'
