@@ -86,7 +86,7 @@ exports.notNum = (q) => {
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Sakamata Chloe-Md Bot* :
+*📚 List-Menu Alvynbot-Md* :
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -257,7 +257,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ My Waifu Sakamata Chloe 🥰
 ╰❒ And All Support
 
     `
@@ -317,7 +316,7 @@ exports.source = () =>{
 return`*── 「 SOURCE 」 ──*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://github.com/anaskautsar7/Alphabot-Md
+Recode : https://github.com/anaskautsar7/Alvynbot-Md
 `
 }
 exports.tos = (ownernomer) => {
