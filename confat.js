@@ -4,9 +4,9 @@ const setting = JSON.parse(fs.readFileSync('./setting.json'));
 
 // Other
 global.owner = ["6289608583160","6289608583160"]
-global.packname = 'Sakamata Chloe-MD'
-global.youtube = 'https://youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw'
-global.author = '© ｖｙｎｕｔｚｘｘ２２'
+global.packname = ''
+global.youtube = 'https://youtube.com/c/avengedsevenfold'
+global.author = ''
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
